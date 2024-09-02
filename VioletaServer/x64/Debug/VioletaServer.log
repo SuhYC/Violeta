@@ -1,0 +1,263 @@
+﻿  main.cpp
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(33,29): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(33,29): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(33,47): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(33,47): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(33,77): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(33,77): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(33,83): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(33,83): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(33,89): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(33,89): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(34,5): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(34,5): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(34,11): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(34,11): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(34,17): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(34,17): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(34,29): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(34,29): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(34,47): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(34,47): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(34,53): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(34,53): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(34,59): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(34,59): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(34,65): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(34,65): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(34,71): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(34,71): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(34,77): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(34,77): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(34,83): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(34,83): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(34,95): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(34,95): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(35,5): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(35,5): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(35,11): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(35,11): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(35,17): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(35,17): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(35,41): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(35,41): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(35,47): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(35,47): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(35,59): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(35,59): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(35,65): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(35,65): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(35,71): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(35,71): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(35,83): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(35,83): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(36,11): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(36,11): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(36,23): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(36,23): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(36,35): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(36,35): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(36,47): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(36,47): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(36,65): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(36,65): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(36,71): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(36,71): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(36,77): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(36,77): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(36,89): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(36,89): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(37,11): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(37,11): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(37,47): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(37,47): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(37,65): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(37,65): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(37,71): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(37,71): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(37,83): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(37,83): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(37,95): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(37,95): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(38,11): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(38,11): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(38,23): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(38,23): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(38,35): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(38,35): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(38,41): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(38,41): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(38,59): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(38,59): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(38,65): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(38,65): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(38,95): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(38,95): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(39,5): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(39,5): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(39,11): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(39,11): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(39,17): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(39,17): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(39,23): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(39,23): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(39,47): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(39,47): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(39,59): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(39,59): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(39,89): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(39,89): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(39,95): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(39,95): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(40,11): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(40,11): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(40,23): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(40,23): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(40,29): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(40,29): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(40,35): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(40,35): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(40,47): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(40,47): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(40,53): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(40,53): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(40,59): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(40,59): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(40,65): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(40,65): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(40,83): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(40,83): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(40,89): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(40,89): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(40,95): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(40,95): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(41,5): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(41,5): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(41,23): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(41,23): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(41,35): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(41,35): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(41,53): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(41,53): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(41,59): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(41,59): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(42,11): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(42,11): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(42,23): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(42,23): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(42,41): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(42,41): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(42,47): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(42,47): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(42,59): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(42,59): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(42,65): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(42,65): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(42,77): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(42,77): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(42,95): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(42,95): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(43,5): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(43,5): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(43,53): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(43,53): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(43,59): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(43,59): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(43,65): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(43,65): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(43,77): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(43,77): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(43,83): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(43,83): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(43,89): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(43,89): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(44,5): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(44,5): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(44,11): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(44,11): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(44,29): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(44,29): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(44,35): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(44,35): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(44,47): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(44,47): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(44,65): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(44,65): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(44,71): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(44,71): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(44,89): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(44,89): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(45,5): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(45,5): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(45,35): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(45,35): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(45,41): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(45,41): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(45,47): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(45,47): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(45,53): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(45,53): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(45,59): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(45,59): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(45,83): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(45,83): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(45,89): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(45,89): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(45,95): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(45,95): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(46,17): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(46,17): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(46,41): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(46,41): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(46,71): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(46,71): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(46,77): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(46,77): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(46,83): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(46,83): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(46,95): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(46,95): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(47,5): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(47,5): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(47,11): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(47,11): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(47,17): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(47,17): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(47,35): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(47,35): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(47,41): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(47,41): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(47,47): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(47,47): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(47,53): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(47,53): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(47,65): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(47,65): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(47,71): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(47,71): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(47,77): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(47,77): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(47,95): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(47,95): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(48,5): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(48,5): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(48,11): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(48,11): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(48,17): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(48,17): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(48,29): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(48,29): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(48,35): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(48,35): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(48,59): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(48,59): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(48,77): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(48,77): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(48,89): warning C4838: 'int'에서 'const char'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\SHA.hpp(48,89): warning C4309: '초기화 중': 상수 값이 잘립니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\VioletaServer.hpp(149,39): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\VioletaServer.hpp(157,35): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\VioletaServer.hpp(237,70): warning C4267: '인수': 'size_t'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\VioletaServer.hpp(247,39): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+C:\Users\psyc\source\repos\VioletaServer\VioletaServer\VioletaServer.hpp(255,35): warning C4101: 'e' :참조되지 않은 지역 변수입니다.
+  VioletaServer.vcxproj -> C:\Users\psyc\source\repos\VioletaServer\x64\Debug\VioletaServer.exe
