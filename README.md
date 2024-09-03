@@ -26,4 +26,4 @@ SHA-256을 통해 나온 결과값 32바이트를 각 1바이트마다 치환연
 서버는 동일한 시간시드값을 바탕으로 시뮬레이션한 후, 적절한 입력이 맞는지 확인한다.
 
 ## 영상
-추후추가.
+[![Video Label](http://img.youtube.com/vi/EYDAL4GmfnE/0.jpg)](https://youtu.be/EYDAL4GmfnE)
